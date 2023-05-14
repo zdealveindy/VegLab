@@ -1,0 +1,685 @@
+Region	Plot_ID	ID	Sd_ID	Species	Ht	Dist_surf	Sub	Decay	M	Position	Competition	
+TSS	TSS01	1	1	Chamaecyparis_obtusa_formosana	8	100	log	3	M	Up		
+TSS	TSS01	1	2	Chamaecyparis_obtusa_formosana	7	100	log	3	M	Up		
+TSS	TSS01	1	3	Chamaecyparis_obtusa_formosana	7	100	log	3	M	Up		
+TSS	TSS01	1	4	Chamaecyparis_obtusa_formosana	7	100	log	3	M	Up		
+TSS	TSS01	1	5	Chamaecyparis_obtusa_formosana	7.5	100	log	3	M	Up		
+TSS	TSS01	1	6	Chamaecyparis_obtusa_formosana	3.5	100	log	3	M	Up		
+TSS	TSS01	1	7	Chamaecyparis_obtusa_formosana	10.5	100	log	3	M	Up		
+TSS	TSS01	1	8	Chamaecyparis_obtusa_formosana	3.5	100	log	3	L	Up		
+TSS	TSS01	1	9	Tsuga_chinensis	4.5	100	log	3	M	Up		
+TSS	TSS01	1	10	Chamaecyparis_obtusa_formosana	7.5	100	log	3	M	Up		
+TSS	TSS01	1	11	Chamaecyparis_obtusa_formosana	7.5	100	log	3	M	Up		
+TSS	TSS01	1	12	Tsuga_chinensis	4	100	log	3	M	Up		
+TSS	TSS01	1	13	Chamaecyparis_obtusa_formosana	8	100	log	3	M	Up		
+TSS	TSS01	1	14	Chamaecyparis_obtusa_formosana	7.5	100	log	3	M	Up		
+TSS	TSS01	1	15	Chamaecyparis_obtusa_formosana	8.5	100	log	3	M	Up		
+TSS	TSS01	1	16	Chamaecyparis_obtusa_formosana	12.5	100	log	3	M	Up		
+TSS	TSS01	1	17	Chamaecyparis_obtusa_formosana	6.5	100	log	3	M	Up		
+TSS	TSS01	1	18	Chamaecyparis_obtusa_formosana	5	100	log	3	M	Up		
+TSS	TSS01	1	19	Chamaecyparis_obtusa_formosana	7.5	100	log	3	M	Up		
+TSS	TSS02	2	1	Chamaecyparis_obtusa_formosana	3	40	log	4	M	Up		
+TSS	TSS02	2	2	Chamaecyparis_obtusa_formosana	3	40	log	4	M	Up		
+TSS	TSS02	2	3	Chamaecyparis_obtusa_formosana	2.5	40	log	4	M	Up		
+TSS	TSS02	2	4	Chamaecyparis_obtusa_formosana	3.5	40	log	4	M	Up		
+TSS	TSS02	2	5	Chamaecyparis_obtusa_formosana	4.5	40	log	4	M	Up		
+TSS	TSS02	2	6	Chamaecyparis_obtusa_formosana	3	40	log	4	M	Up		
+TSS	TSS03	3	1	Chamaecyparis_obtusa_formosana	4.5	25	log	6	L	Up		
+TSS	TSS03	3	2	Chamaecyparis_obtusa_formosana	5	25	log	6	L	Up	RHOFOR	
+TSS	TSS03	3	3	Chamaecyparis_obtusa_formosana	4.5	25	log	6	M	Up		
+TSS	TSS03	3	4	Chamaecyparis_obtusa_formosana	2.5	25	log	6	L	Up		
+TSS	TSS03	3	5	Chamaecyparis_obtusa_formosana	5.5	25	log	6	M	Up		
+TSS	TSS03	3	6	Chamaecyparis_obtusa_formosana	4	25	log	6	M	Side		
+TSS	TSS03	3	7	Chamaecyparis_obtusa_formosana	5.5	25	log	6	M	Side		
+TSS	TSS03	3	8	Chamaecyparis_obtusa_formosana	5.5	25	log	6	L	Up		
+TSS	TSS03	3	9	Chamaecyparis_obtusa_formosana	3	25	log	6	L	Up		
+TSS	TSS03	3	10	Chamaecyparis_obtusa_formosana	4.5	25	log	6	M	Up		
+TSS	TSS03	3	11	Chamaecyparis_obtusa_formosana	4.5	25	log	6	M	Up		
+TSS	TSS03	3	12	Tsuga_chinensis	6.5	25	log	6	M	Up		
+TSS	TSS03	3	13	Tsuga_chinensis	6	25	log	6	M	Up		
+TSS	TSS04	4	1	Chamaecyparis_obtusa_formosana	5.5	0	soil		M	Up		
+TSS	TSS04	4	2	Chamaecyparis_obtusa_formosana	5	0	soil		M	Up		
+TSS	TSS04	4	3	Chamaecyparis_obtusa_formosana	6	0	soil		M	Up		
+TSS	TSS04	4	4	Chamaecyparis_obtusa_formosana	4	0	soil		L	Up		
+TSS	TSS04	4	5	Tsuga_chinensis	5.5	0	soil		M	Up		
+TSS	TSS04	4	6	Chamaecyparis_obtusa_formosana	4.5	0	soil		M	Up		
+TSS	TSS04	4	7	Tsuga_chinensis	3.5	0	soil		M	Up		
+TSS	TSS05	5	1	Tsuga_chinensis	6	20	log	6	M	Up		
+TSS	TSS05	5	2	Tsuga_chinensis	6	20	log	6	M	Up		
+TSS	TSS05	5	3	Tsuga_chinensis	6	20	log	6	M	Up		
+TSS	TSS05	5	4	Tsuga_chinensis	4	20	log	6	M	Up		
+TSS	TSS05	5	5	Tsuga_chinensis	6	20	log	6	M	Up		
+TSS	TSS05	5	6	Tsuga_chinensis	1.5	20	log	6	M	Up		
+TSS	TSS05	5	7	Tsuga_chinensis	4.5	20	log	6	M	Side		
+TSS	TSS05	5	8	Tsuga_chinensis	6.5	20	log	6	M	Up		
+TSS	TSS05	5	9	Chamaecyparis_obtusa_formosana	6.5	20	log	6	M	Up		
+TSS	TSS05	5	10	Chamaecyparis_obtusa_formosana	5	20	log	6	L	Up		
+TSS	TSS05	5	11	Chamaecyparis_obtusa_formosana	5	20	log	6	L	Up		
+TSS	TSS05	5	12	Chamaecyparis_obtusa_formosana	5	20	log	6	M	Up		
+TSS	TSS05	5	13	Chamaecyparis_obtusa_formosana	4.5	20	log	6	L	Up		
+TSS	TSS06	6	1	Chamaecyparis_obtusa_formosana	6.5	120	log	6	M	Up		
+TSS	TSS06	6	2	Chamaecyparis_obtusa_formosana	4.5	120	log	6	M	Up		
+TSS	TSS06	6	3	Chamaecyparis_obtusa_formosana	6	120	log	6	M	Up		
+TSS	TSS06	6	4	Chamaecyparis_obtusa_formosana	7	80	log	6	M	Side		
+TSS	TSS06	6	5	Chamaecyparis_obtusa_formosana	9	80	log	6	M	Side		
+TSS	TSS06	6	6	Chamaecyparis_obtusa_formosana	6	80	log	6	M	Up		
+TSS	TSS06	6	7	Chamaecyparis_obtusa_formosana	4	80	log	6	M	Side		
+TSS	TSS06	6	8	Chamaecyparis_obtusa_formosana	6	80	log	6	L	Side		
+WDY	WDY01	7	1	Chamaecyparis_obtusa_formosana	10	85	living_root		M	Up	Sphagnum	
+WDY	WDY01	7	2	Chamaecyparis_obtusa_formosana	6.5	85	living_root		M	Up	Sphagnum	
+WDY	WDY01	7	3	Chamaecyparis_obtusa_formosana	8	85	living_root		M	Up	Sphagnum	
+WDY	WDY01	7	4	Chamaecyparis_obtusa_formosana	7	85	living_root		M	Up	Sphagnum	
+WDY	WDY01	7	5	Chamaecyparis_obtusa_formosana	6.5	85	living_root		M	Up	Sphagnum	
+WDY	WDY01	7	6	Chamaecyparis_obtusa_formosana	7	85	living_root		M	Up	Sphagnum	
+WDY	WDY01	7	7	Chamaecyparis_obtusa_formosana	8.5	85	living_root		M	Up	Sphagnum	
+WDY	WDY02	8	1	Chamaecyparis_obtusa_formosana	4.5	80	stump	2	M	Up		
+WDY	WDY02	8	2	Chamaecyparis_obtusa_formosana	6.5	80	stump	2	M	Up		
+WDY	WDY02	8	3	Chamaecyparis_obtusa_formosana	7	80	stump	2	M	Up		
+WDY	WDY02	8	4	Chamaecyparis_obtusa_formosana	7	80	stump	2	M	Up		
+WDY	WDY02	8	5	Chamaecyparis_obtusa_formosana	5.5	80	stump	2	M	Side		
+WDY	WDY03	9	1	Chamaecyparis_obtusa_formosana	9	70	log	2	M	Side		
+WDY	WDY03	9	2	Chamaecyparis_obtusa_formosana	6.5	70	log	2	M	Side		
+WDY	WDY03	9	3	Chamaecyparis_obtusa_formosana	8	70	log	2	M	Up		
+WDY	WDY03	9	4	Chamaecyparis_obtusa_formosana	5	70	log	2	M	Up		
+WDY	WDY03	9	5	Chamaecyparis_obtusa_formosana	4	70	log	2	M	Up		
+WDY	WDY03	9	6	Chamaecyparis_obtusa_formosana	4	70	log	2	X	Up		
+WDY	WDY04	10	1	Chamaecyparis_obtusa_formosana	10	170	log	2	M	Up		
+WDY	WDY04	10	2	Chamaecyparis_obtusa_formosana	8	170	log	2	M	Up		
+WDY	WDY04	10	3	Chamaecyparis_obtusa_formosana	9	170	log	2	M	Up		
+WDY	WDY04	10	4	Chamaecyparis_obtusa_formosana	8	170	log	2	M	Up		
+WDY	WDY04	10	5	Chamaecyparis_obtusa_formosana	7	170	log	2	M	Up		
+WDY	WDY04	10	6	Chamaecyparis_obtusa_formosana	6	170	log	2	M	Up		
+WDY	WDY04	10	7	Chamaecyparis_obtusa_formosana	5	170	log	2	M	Up		
+WDY	WDY04	10	8	Chamaecyparis_obtusa_formosana	6.5	170	log	2	M	Up		
+WDY	WDY04	10	9	Chamaecyparis_obtusa_formosana	5	170	log	2	M	Up		
+WDY	WDY04	10	10	Chamaecyparis_obtusa_formosana	9	170	log	2	M	Up		
+WDY	WDY04	10	11	Chamaecyparis_obtusa_formosana	4	170	log	2	M	Up		
+WDY	WDY04	10	12	Chamaecyparis_obtusa_formosana	4.5	170	log	2	M	Up		
+WDY	WDY04	10	13	Chamaecyparis_obtusa_formosana	5	170	log	2	M	Up		
+WDY	WDY04	10	14	Chamaecyparis_obtusa_formosana	9	170	log	2	M	Up		
+WDY	WDY04	10	15	Chamaecyparis_obtusa_formosana	6	170	log	2	M	Up		
+WDY	WDY04	10	16	Chamaecyparis_obtusa_formosana	6.5	170	log	2	M	Up		
+WDY	WDY04	10	17	Chamaecyparis_obtusa_formosana	7	170	log	2	M	Up		
+WDY	WDY04	10	18	Chamaecyparis_obtusa_formosana	10.5	170	log	2	M	Up		
+WDY	WDY04	10	19	Chamaecyparis_obtusa_formosana	5.5	170	log	2	M	Up		
+WDY	WDY04	10	20	Chamaecyparis_obtusa_formosana	9	170	log	2	M	Side		
+WDY	WDY04	10	21	Chamaecyparis_obtusa_formosana	8	170	log	2	M	Side		
+WDY	WDY04	10	22	Chamaecyparis_obtusa_formosana	10.5	170	log	2	M	Side		
+WDY	WDY05	11	1	Chamaecyparis_obtusa_formosana	2.5	50	stump	2	M	Up		
+WDY	WDY05	11	2	Chamaecyparis_obtusa_formosana	4.5	50	stump	2	M	Up		
+WDY	WDY05	11	3	Chamaecyparis_obtusa_formosana	6	50	stump	2	M	Up		
+WDY	WDY05	11	4	Chamaecyparis_obtusa_formosana	6	50	stump	2	L	Up		
+WDY	WDY05	11	5	Chamaecyparis_obtusa_formosana	6.5	50	stump	2	L	Up		
+WDY	WDY05	11	6	Chamaecyparis_obtusa_formosana	5	50	stump	2	M	Up		
+WDY	WDY05	11	7	Chamaecyparis_obtusa_formosana	5.5	50	stump	2	M	Up		
+WDY	WDY05	11	8	Chamaecyparis_obtusa_formosana	5	50	stump	2	L	Up		
+WDY	WDY05	11	9	Chamaecyparis_obtusa_formosana	6	50	stump	2	L	Up		
+WDY	WDY05	11	10	Chamaecyparis_obtusa_formosana	6.5	50	stump	2	M	Up		
+WDY	WDY05	11	11	Chamaecyparis_obtusa_formosana	7	50	stump	2	L	Side		
+WDY	WDY06	12	1	Chamaecyparis_obtusa_formosana	5	240	log	3	M	Up		
+WDY	WDY06	12	2	Chamaecyparis_obtusa_formosana	5	240	log	3	M	Up		
+WDY	WDY06	12	3	Chamaecyparis_obtusa_formosana	5.5	240	log	3	L	Up		
+WDY	WDY06	12	4	Chamaecyparis_obtusa_formosana	4.5	240	log	3	M	Up		
+WDY	WDY06	12	5	Chamaecyparis_obtusa_formosana	6	240	log	3	L	Up		
+WDY	WDY06	12	6	Chamaecyparis_obtusa_formosana	7	240	log	3	L	Up		
+WDY	WDY06	12	7	Chamaecyparis_obtusa_formosana	5	240	log	3	M	Up		
+WDY	WDY06	12	8	Chamaecyparis_obtusa_formosana	7	240	log	3	M	Up		
+WDY	WDY06	12	9	Chamaecyparis_obtusa_formosana	6	240	log	3	L	Up		
+WDY	WDY06	12	10	Chamaecyparis_obtusa_formosana	6	240	log	3	L	Up		
+WDY	WDY06	12	11	Chamaecyparis_obtusa_formosana	7	240	log	3	L	Up		
+TMM	TMM01		1	Chamaecyparis_obtusa_formosana	3	20	log	5	M	Side	Y	
+TMM	TMM01		2	Chamaecyparis_obtusa_formosana	2.2	20	log	5	M	Side	Y	
+TMM	TMM01		3	Chamaecyparis_obtusa_formosana	6.2	40	log	5	M	Up		
+TMM	TMM01		4	Chamaecyparis_obtusa_formosana	6.7	40	log	5	M	Up		
+TMM	TMM01		5	Chamaecyparis_obtusa_formosana	9.7	40	log	5	M	Up		
+TMM	TMM01		6	Chamaecyparis_obtusa_formosana	2.7	40	log	5	M	Up	Y	
+TMM	TMM01		7	Chamaecyparis_obtusa_formosana	6	40	log	5	M	Up		
+TMM	TMM01		8	Chamaecyparis_obtusa_formosana	7.5	30	log	5	M	Side		
+TMM	TMM02		1	Chamaecyparis_obtusa_formosana	5	130	log	4	L	Up		deep crevice
+TMM	TMM02		2	Chamaecyparis_obtusa_formosana	6	130	log	4	L	Up		deep crevice
+TMM	TMM02		3	Chamaecyparis_obtusa_formosana	10.5	130	log	4	L	Up		deep crevice
+TMM	TMM02		4	Chamaecyparis_obtusa_formosana	9.4	130	log	4	L	Up		deep crevice
+TMM	TMM02		5	Chamaecyparis_obtusa_formosana	6.7	130	log	4	L	Up		deep crevice
+TMM	TMM02		6	Chamaecyparis_obtusa_formosana	5	130	log	4	L	Up	Y	shallow crevice
+TMM	TMM03		1	Chamaecyparis_obtusa_formosana	5	10	log	5	M	Up		
+TMM	TMM03		2	Chamaecyparis_obtusa_formosana	4	10	log	5	M	Up		
+TMM	TMM03		3	Chamaecyparis_obtusa_formosana	4.5	20	log	5	M	Up		
+TMM	TMM03		4	Chamaecyparis_obtusa_formosana	4.5	20	log	5	M	Up		
+TMM	TMM03		5	Chamaecyparis_obtusa_formosana	8.5	20	log	5	M	Up		
+TMM	TMM03		6	Chamaecyparis_obtusa_formosana	6.7	10	log	5	M	Up		
+TMM	TMM03		7	Chamaecyparis_obtusa_formosana	4.5	20	log	5	M	Up		
+TMM	TMM03		8	Chamaecyparis_obtusa_formosana	3.2	20	log	5	L	Up		
+TMM	TMM03		9	Tsuga_chinensis	12	20	log	5	M	Up		
+TMM	TMM03		10	Tsuga_chinensis	17	20	log	5	M	Up		
+TMM	TMM03		11	Tsuga_chinensis	19	20	log	5	M	Up		
+TMM	TMM04		1	Chamaecyparis_obtusa_formosana	5	15	stump	7	M	Up		
+TMM	TMM04		2	Chamaecyparis_obtusa_formosana	4.5	15	stump	7	M	Up		
+TMM	TMM04		3	Chamaecyparis_obtusa_formosana	4.5	15	stump	7	M	Up		
+TMM	TMM04		4	Chamaecyparis_obtusa_formosana	3.4	15	stump	7	M	Up		
+TMM	TMM04		5	Chamaecyparis_obtusa_formosana	6.5	20	stump	7	L	Up		
+TMM	TMM04		6	Chamaecyparis_obtusa_formosana	5	20	stump	7	L	Up		
+TMM	TMM04		7	Chamaecyparis_obtusa_formosana	5	20	stump	7	M	Up		
+TMM	TMM04		8	Chamaecyparis_obtusa_formosana	5	20	stump	7	L	Up		
+TMM	TMM04		9	Chamaecyparis_obtusa_formosana	5.5	25	stump	7	M	Up		
+TMM	TMM04		10	Chamaecyparis_obtusa_formosana	6.4	25	stump	7	M	Up		
+TMM	TMM04		11	Chamaecyparis_obtusa_formosana	4.5	25	stump	7	L	Up		
+TMM	TMM04		12	Chamaecyparis_obtusa_formosana	4.5	20	stump	7	M	Up		
+TMM	TMM04		13	Chamaecyparis_obtusa_formosana	4.5	20	stump	7	M	Up		
+TMM	TMM04		14	Chamaecyparis_obtusa_formosana	3	10	stump	7	L	Up		
+TMM	TMM04		15	Chamaecyparis_obtusa_formosana	4.6	10	stump	7	M	Up		
+TMM	TMM04		16	Chamaecyparis_obtusa_formosana	5.7	10	stump	7	M	Up		
+TMM	TMM04		17	Chamaecyparis_obtusa_formosana	4	10	stump	7	M	Up		
+TMM	TMM05		1	Chamaecyparis_obtusa_formosana	4.3	70	log	4	M	Up		
+TMM	TMM05		2	Chamaecyparis_obtusa_formosana	3.8	70	log	4	L	Up		
+TMM	TMM05		3	Chamaecyparis_obtusa_formosana	3.4	70	log	4	L	Up		
+TMM	TMM05		4	Chamaecyparis_obtusa_formosana	4.2	70	log	4	L	Up		
+TMM	TMM05		5	Chamaecyparis_obtusa_formosana	3.8	70	log	4	M	Up		
+TMM	TMM05		6	Chamaecyparis_obtusa_formosana	4.2	70	log	4	M	Up		
+TMM	TMM05		7	Chamaecyparis_obtusa_formosana	3.4	70	log	4	M	Up		
+TMM	TMM05		8	Chamaecyparis_obtusa_formosana	4.5	70	log	4	M	Up		
+TMM	TMM05		9	Chamaecyparis_obtusa_formosana	4.5	70	log	4	M	Up		
+TMM	TMM05		10	Chamaecyparis_obtusa_formosana	4	70	log	4	M	Up		
+TMM	TMM05		11	Chamaecyparis_obtusa_formosana	3.8	70	log	4	M	Up		
+TMM	TMM05		12	Chamaecyparis_obtusa_formosana	3.6	70	log	4	M	Up		
+TMM	TMM05		13	Chamaecyparis_obtusa_formosana	4	70	log	4	M	Up		
+TMM	TMM05		14	Chamaecyparis_obtusa_formosana	2.8	70	log	4	M	Up		
+TMM	TMM05		15	Chamaecyparis_obtusa_formosana	3.5	70	log	4	M	Up		
+TMM	TMM05		16	Chamaecyparis_obtusa_formosana	3.6	70	log	4	M	Up		
+TMM	TMM05		17	Chamaecyparis_obtusa_formosana	4	70	log	4	M	Up		
+TMM	TMM06		1	Chamaecyparis_obtusa_formosana	3.6	20	log	5	M	Up		
+TMM	TMM06		2	Chamaecyparis_obtusa_formosana	4	20	log	5	M	Up		
+TMM	TMM06		3	Chamaecyparis_obtusa_formosana	4.4	20	log	5	M	Up		
+TMM	TMM06		4	Chamaecyparis_obtusa_formosana	4	20	log	5	M	Up		
+TMM	TMM06		5	Chamaecyparis_obtusa_formosana	5.4	20	log	5	M	Up		
+TMM	TMM06		6	Chamaecyparis_obtusa_formosana	4.2	20	log	5	L	Up		
+TMM	TMM06		7	Chamaecyparis_obtusa_formosana	4.4	20	log	5	L	Up		
+TMM	TMM06		8	Chamaecyparis_obtusa_formosana	4.6	20	log	5	M	Up		
+TMM	TMM06		9	Chamaecyparis_obtusa_formosana	3.5	20	log	5	M	Up		
+TMM	TMM06		10	Chamaecyparis_obtusa_formosana	3	20	log	5	M	Up		
+TMM	TMM06		11	Chamaecyparis_obtusa_formosana	4.6	20	log	5	M	Up		
+TMM	TMM06		12	Chamaecyparis_obtusa_formosana	3.7	20	log	5	M	Up		
+TMM	TMM06		13	Chamaecyparis_obtusa_formosana	3.3	20	log	5	M	Up		
+TMM	TMM06		14	Chamaecyparis_obtusa_formosana	3	20	log	5	M	Up		
+TMM	TMM06		15	Chamaecyparis_obtusa_formosana	4	20	log	5	L	Up		
+TMM	TMM06		16	Chamaecyparis_obtusa_formosana	2.8	20	log	5	M	Up		
+TMM	TMM06		17	Chamaecyparis_obtusa_formosana	4	20	log	5	L	Up		
+TMM	TMM06		18	Chamaecyparis_obtusa_formosana	3	20	log	5	M	Up		
+TMM	TMM06		19	Chamaecyparis_obtusa_formosana	3.1	20	log	5	M	Up		
+TMM	TMM06		20	Chamaecyparis_obtusa_formosana	6	20	log	5	M	Up		
+TMM	TMM06		21	Chamaecyparis_obtusa_formosana	3.7	20	log	5	M	Up		
+TMM	TMM06		22	Chamaecyparis_obtusa_formosana	5	20	log	5	M	Up		
+TMM	TMM06		23	Chamaecyparis_obtusa_formosana	3.8	20	log	5	M	Up		
+TMM	TMM06		24	Chamaecyparis_obtusa_formosana	4	20	log	5	M	Up		
+TMM	TMM06		25	Chamaecyparis_obtusa_formosana	4.2	20	log	5	M	Up		
+TMM	TMM06		26	Chamaecyparis_obtusa_formosana	3.7	20	log	5	M	Up		
+TMM	TMM06		27	Chamaecyparis_obtusa_formosana	4	20	log	5	M	Up		
+TMM	TMM06		28	Chamaecyparis_obtusa_formosana	3.7	20	log	5	M	Up		
+TMM	TMM06		29	Chamaecyparis_obtusa_formosana	4.7	20	log	5	M	Up		
+TMM	TMM06		30	Chamaecyparis_obtusa_formosana	4.5	20	log	5	M	Up		
+TMM	TMM06		31	Chamaecyparis_obtusa_formosana	4.5	20	log	5	M	Up		
+TMM	TMM06		32	Chamaecyparis_obtusa_formosana	4.5	20	log	5	L	Up		
+TMM	TMM06		33	Chamaecyparis_obtusa_formosana	4	20	log	5	M	Up		
+TMM	TMM06		34	Chamaecyparis_obtusa_formosana	4.3	20	log	5	M	Up		
+TMM	TMM06		35	Chamaecyparis_obtusa_formosana	4	20	log	5	M	Up		
+TMM	TMM06		36	Chamaecyparis_obtusa_formosana	5	20	log	5	M	Up		
+TMM	TMM06		37	Chamaecyparis_obtusa_formosana	5	20	log	5	M	Up		
+TMM	TMM06		38	Chamaecyparis_obtusa_formosana	4	20	log	5	M	Up		
+TMM	TMM07		1	Chamaecyparis_obtusa_formosana	3.7	20	log	6	M	Up	Y	
+TMM	TMM07		2	Chamaecyparis_obtusa_formosana	3	20	log	6	M	Up	Y	
+TMM	TMM07		3	Chamaecyparis_obtusa_formosana	4.5	20	log	6	L	Up	Y	
+TMM	TMM07		4	Chamaecyparis_obtusa_formosana	2.5	25	log	6	L	Up	Y	
+TMM	TMM07		5	Chamaecyparis_obtusa_formosana	2	25	log	6	L	Up	Y	
+TMM	TMM07		6	Chamaecyparis_obtusa_formosana	4.2	30	log	6	L	Up	Y	
+TMM	TMM07		7	Chamaecyparis_obtusa_formosana	2.5	25	log	6	L	Up	Y	
+TMM	TMM08		1	Chamaecyparis_obtusa_formosana	7.6	0	soil		L	Up		
+TMM	TMM08		2	Chamaecyparis_obtusa_formosana	7.6	0	soil		L	Up		
+TMM	TMM08		3	Chamaecyparis_obtusa_formosana	8.2	0	soil		L	Up		
+TMM	TMM08		4	Chamaecyparis_obtusa_formosana	5.2	0	soil		L	Up		
+TMM	TMM08		5	Chamaecyparis_obtusa_formosana	6.5	0	soil		L	Up		
+TMM	TMM08		6	Chamaecyparis_obtusa_formosana	8.5	0	soil		L	Up		
+TMM	TMM08		7	Chamaecyparis_obtusa_formosana	3.6	0	soil		L	Up		
+TMM	TMM08		8	Chamaecyparis_obtusa_formosana	7	0	soil		L	Up		
+TMM	TMM08		9	Chamaecyparis_obtusa_formosana	8.3	0	soil		L	Up		
+TMM	TMM08		10	Chamaecyparis_obtusa_formosana	8	0	soil		M	Up		
+TMM	TMM08		11	Chamaecyparis_obtusa_formosana	2.7	0	soil		L	Up		
+TMU	TMU01		1	Chamaecyparis_obtusa_formosana	4.8	30	log	4	M	Up		
+TMU	TMU01		2	Chamaecyparis_obtusa_formosana	3.3	30	log	4	M	Up		
+TMU	TMU01		3	Chamaecyparis_obtusa_formosana	3	30	log	4	M	Up		
+TMU	TMU01		4	Chamaecyparis_obtusa_formosana	4	30	log	4	M	Up		
+TMU	TMU01		5	Chamaecyparis_obtusa_formosana	3	30	log	4	M	Up		
+TMU	TMU02		1	Chamaecyparis_obtusa_formosana	5.7	60	log	5	L	Up		
+TMU	TMU02		2	Chamaecyparis_obtusa_formosana	7	60	log	5	L	Up		
+TMU	TMU02		3	Chamaecyparis_obtusa_formosana	4.2	70	log	5	M	Up		
+TMU	TMU02		4	Chamaecyparis_obtusa_formosana	12.5	60	log	5	L	Up		Intra
+TMU	TMU02		5	Chamaecyparis_obtusa_formosana	13	60	log	5	L	Up		Intra
+TMU	TMU02		6	Chamaecyparis_obtusa_formosana	5.2	50	log	5	M	Side		Inter
+TMU	TMU02		7	Chamaecyparis_obtusa_formosana	5.5	50	log	5	L	Side		
+TMU	TMU03		1	Chamaecyparis_obtusa_formosana	2.2	25	log	5	M	Up	Y	
+TMU	TMU03		2	Chamaecyparis_obtusa_formosana	3.5	25	log	5	M	Up	Y	
+TMU	TMU03		3	Chamaecyparis_obtusa_formosana	3.4	25	log	5	M	Up	Y	
+TMU	TMU03		4	Chamaecyparis_obtusa_formosana	2.5	15	log	5	M	Side	Y	
+TMU	TMU03		5	Chamaecyparis_obtusa_formosana	4.8	15	log	5	M	Up	Y	
+TMU	TMU03		6	Chamaecyparis_obtusa_formosana	3.1	15	log	5	M	Up	Y	
+TMU	TMU03		7	Chamaecyparis_obtusa_formosana	3	25	log	5	L	Up	Y	
+TMU	TMU03		8	Chamaecyparis_obtusa_formosana	3.2	25	log	5	L	Up	Y	
+TMU	TMU03		9	Chamaecyparis_obtusa_formosana	3	25	log	5	X	Up	Y	
+TMU	TMU03		10	Chamaecyparis_obtusa_formosana	3.1	25	log	5	L	Up		
+TMU	TMU03		11	Chamaecyparis_obtusa_formosana	3	25	log	5	M	Up	Y	
+TMU	TMU03		12	Chamaecyparis_obtusa_formosana	3.2	25	log	5	M	Up	Y	
+TMU	TMU03		13	Chamaecyparis_obtusa_formosana	2.9	15	log	5	M	Side	Y	Intra
+TMU	TMU03		14	Chamaecyparis_obtusa_formosana	3.5	15	log	5	M	Side	Y	Intra
+TMU	TMU04		1	Chamaecyparis_obtusa_formosana	4.5	100	stump	5	M	Up		
+TMU	TMU04		2	Chamaecyparis_obtusa_formosana	4	100	stump	5	M	Up		
+TMU	TMU04		3	Chamaecyparis_obtusa_formosana	4.5	100	stump	5	M	Up		
+TMU	TMU04		4	Chamaecyparis_obtusa_formosana	4.2	90	stump	5	M	Up		
+TMU	TMU04		5	Chamaecyparis_obtusa_formosana	3.2	115	stump	5	X	Up		
+TMU	TMU04		6	Chamaecyparis_obtusa_formosana	2	100	stump	5	L	Up		
+TMU	TMU04		7	Chamaecyparis_obtusa_formosana	4.2	110	stump	5	L	Up		
+TMU	TMU05		1	Chamaecyparis_obtusa_formosana	5.6	15	stump	6	M	Up		
+TMU	TMU05		2	Chamaecyparis_obtusa_formosana	4.9	15	stump	6	M	Up		
+TMU	TMU05		3	Chamaecyparis_obtusa_formosana	4.6	15	stump	6	M	Up		
+TMU	TMU05		4	Chamaecyparis_obtusa_formosana	4.4	15	stump	6	M	Up		
+TMU	TMU05		5	Chamaecyparis_obtusa_formosana	5.1	15	stump	6	M	Up		
+TMU	TMU05		6	Chamaecyparis_obtusa_formosana	3.2	15	stump	6	M	Up		
+TMU	TMU06		1	Chamaecyparis_obtusa_formosana	3.7	35	log	7	M	Up		
+TMU	TMU06		2	Chamaecyparis_obtusa_formosana	3	35	log	7	L	Up		
+TMU	TMU06		3	Chamaecyparis_obtusa_formosana	3.7	35	log	7	M	Up		
+TMU	TMU06		4	Chamaecyparis_obtusa_formosana	3.3	35	log	7	M	Up		
+TMU	TMU06		5	Chamaecyparis_obtusa_formosana	2.7	35	log	7	M	Up		
+TMU	TMU07		1	Chamaecyparis_obtusa_formosana	6	60	log	6	M	Up		
+TMU	TMU07		2	Chamaecyparis_obtusa_formosana	1.5	60	log	6	M	Up		
+TMU	TMU07		3	Chamaecyparis_obtusa_formosana	4.7	55	log	6	M	Up		
+TMU	TMU07		4	Chamaecyparis_obtusa_formosana	4.9	55	log	6	M	Up		
+TMU	TMU07		5	Chamaecyparis_obtusa_formosana	4.8	50	log	6	M	Up		
+TMU	TMU08		1	Chamaecyparis_obtusa_formosana	4.5	0	living_root mat		M	Up		
+TMU	TMU08		2	Chamaecyparis_obtusa_formosana	4.4	0	living_root mat		M	Up		
+TMU	TMU08		3	Chamaecyparis_obtusa_formosana	4.2	0	living_root mat		M	Up		
+TMU	TMU08		4	Chamaecyparis_obtusa_formosana	5.5	0	living_root mat		M	Up		
+TMU	TMU08		5	Chamaecyparis_obtusa_formosana	4.5	0	living_root mat		L	Side		
+TMU	TMU09		1	Chamaecyparis_obtusa_formosana	3.6	50	log	5	M	Up	Y	
+TMU	TMU09		2	Chamaecyparis_obtusa_formosana	3	50	log	5	M	Up	Y	
+TMU	TMU09		3	Chamaecyparis_obtusa_formosana	2.4	50	log	5	M	Up	Y	
+TMU	TMU09		4	Chamaecyparis_obtusa_formosana	4	40	log	5	L	Side	Y	
+TMU	TMU09		5	Chamaecyparis_obtusa_formosana	4.2	40	log	5	M	Side	Y	
+TMU	TMU09		6	Chamaecyparis_obtusa_formosana	3.7	45	log	5	M	Up	Y	
+TMU	TMU09		7	Chamaecyparis_obtusa_formosana	4.2	40	log	5	M	Side	Y	
+TMU	TMU09		8	Chamaecyparis_obtusa_formosana	3.4	50	log	5	M	Up	Y	
+TMU	TMU09		9	Chamaecyparis_obtusa_formosana	3.2	50	log	5	L	Up	Y	
+TMU	TMU09		10	Chamaecyparis_obtusa_formosana	2	50	log	5	L	Up	Y	
+TMU	TMU10		1	Chamaecyparis_obtusa_formosana	4.5	20	root swallow mat		M	Up		
+TMU	TMU10		2	Chamaecyparis_obtusa_formosana	4.7	20	root swallow mat		M	Up		
+TMU	TMU10		3	Chamaecyparis_obtusa_formosana	5.7	5	root swallow mat		M	Side		
+TMU	TMU10		4	Chamaecyparis_obtusa_formosana	2.5	5	root swallow mat		M	Side		
+TMU	TMU10		5	Chamaecyparis_obtusa_formosana	4	15	root swallow mat		M	Up		
+TMU	TMU10		6	Chamaecyparis_obtusa_formosana	4.8	15	root swallow mat		L	Up		
+TMU	TMU10		7	Chamaecyparis_obtusa_formosana	4.6	25	root swallow mat		M	Up		
+DGJ	DGJ01		1	Chamaecyparis_obtusa_formosana	5	140	log	5	M	Up		Intra
+DGJ	DGJ01		2	Chamaecyparis_obtusa_formosana	3	140	log	5	M	Up		Intra
+DGJ	DGJ01		3	Chamaecyparis_obtusa_formosana	6.2	140	log	5	L	Up		Intra
+DGJ	DGJ01		4	Chamaecyparis_obtusa_formosana	2.6	140	log	5	L	Up		Intra
+DGJ	DGJ01		5	Chamaecyparis_obtusa_formosana	5	140	log	5	M	Up		
+DGJ	DGJ01		6	Chamaecyparis_obtusa_formosana	7.7	140	log	5	M	Up		
+DGJ	DGJ01		7	Chamaecyparis_obtusa_formosana	4.3	140	log	5	M	Up		Intra
+DGJ	DGJ01		8	Chamaecyparis_obtusa_formosana	6.2	140	log	5	M	Up		
+DGJ	DGJ01		9	Chamaecyparis_obtusa_formosana	5.9	140	log	5	L	Up		
+DGJ	DGJ01		10	Chamaecyparis_obtusa_formosana	4.8	140	log	5	L	Up		
+DGJ	DGJ01		11	Chamaecyparis_obtusa_formosana	9	140	log	5	M	Side		
+DGJ	DGJ02		1	Chamaecyparis_obtusa_formosana	7.8	75	log	4	M	Side		
+DGJ	DGJ02		2	Chamaecyparis_obtusa_formosana	6.5	75	log	4	M	Side		
+DGJ	DGJ02		3	Chamaecyparis_obtusa_formosana	4.7	85	log	4	M	Up		
+DGJ	DGJ02		4	Chamaecyparis_obtusa_formosana	7	85	log	4	M	Up		
+DGJ	DGJ02		5	Chamaecyparis_obtusa_formosana	4	85	log	4	M	Up		
+DGJ	DGJ02		6	Chamaecyparis_obtusa_formosana	5.5	85	log	4	M	Up		
+DGJ	DGJ02		7	Chamaecyparis_obtusa_formosana	5.3	85	log	4	L	Up		
+DGJ	DGJ02		8	Chamaecyparis_obtusa_formosana	4.8	85	log	4	M	Up		
+DGJ	DGJ03		1	Chamaecyparis_obtusa_formosana	8	50	log	4	M	Up		
+DGJ	DGJ03		2	Chamaecyparis_obtusa_formosana	6.1	50	log	4	M	Up		
+DGJ	DGJ03		3	Chamaecyparis_obtusa_formosana	5.7	50	log	4	M	Up		
+DGJ	DGJ03		4	Chamaecyparis_obtusa_formosana	4.3	50	log	4	M	Up		
+DGJ	DGJ03		5	Chamaecyparis_obtusa_formosana	3.8	50	log	4	M	Up		
+DGJ	DGJ03		6	Chamaecyparis_obtusa_formosana	4.6	50	log	4	M	Up		
+DGJ	DGJ03		7	Chamaecyparis_obtusa_formosana	5.3	50	log	4	M	Up		
+DGJ	DGJ03		8	Chamaecyparis_obtusa_formosana	5	50	log	4	M	Up		
+DGJ	DGJ03		9	Chamaecyparis_obtusa_formosana	6	50	log	4	M	Side		
+DGJ	DGJ03		10	Chamaecyparis_obtusa_formosana	4.5	50	log	4	M	Side		
+DGJ	DGJ03		11	Chamaecyparis_obtusa_formosana	4.8	20	log	4	M	Up		
+DGJ	DGJ03		12	Tsuga_chinensis	8.5	50	log	4	M	Up		
+DGJ	DGJ04		1	Chamaecyparis_obtusa_formosana	6.2	55	log	4	M	Side		
+DGJ	DGJ04		2	Chamaecyparis_obtusa_formosana	4	55	log	4	M	Side	Y	
+DGJ	DGJ04		3	Chamaecyparis_obtusa_formosana	13.8	55	log	4	M	Side		
+DGJ	DGJ04		4	Chamaecyparis_obtusa_formosana	4	75	log	4	M	Up	Y	Intra
+DGJ	DGJ04		5	Chamaecyparis_obtusa_formosana	3.5	75	log	4	L	Up	Y	Intra
+DGJ	DGJ04		6	Chamaecyparis_obtusa_formosana	4.5	75	log	4	L	Up	Y	Intra
+DGJ	DGJ04		7	Chamaecyparis_obtusa_formosana	6	75	log	4	L	Up	Y	Intra
+DGJ	DGJ04		8	Chamaecyparis_obtusa_formosana	3	75	log	4	L	Up	Y	Intra
+DGJ	DGJ04		9	Chamaecyparis_obtusa_formosana	4.5	75	log	4	X	Up	Y	Intra
+DGJ	DGJ04		10	Chamaecyparis_obtusa_formosana	4.5	85	log	4	X	Up	Y	
+DGJ	DGJ04		11	Chamaecyparis_obtusa_formosana	6.1	85	log	4	M	Up	Y	
+DGJ	DGJ05		1	Chamaecyparis_obtusa_formosana	8	30	log	6	M	Side		
+DGJ	DGJ05		2	Chamaecyparis_obtusa_formosana	5	30	log	6	M	Side		
+DGJ	DGJ05		3	Chamaecyparis_obtusa_formosana	7.2	30	log	6	M	Side		
+DGJ	DGJ05		4	Chamaecyparis_obtusa_formosana	5.4	30	log	6	M	Side		
+DGJ	DGJ05		5	Chamaecyparis_obtusa_formosana	9.2	30	log	6	M	Side	Y	
+DGJ	DGJ05		6	Chamaecyparis_obtusa_formosana	7	30	log	6	M	Side		
+DGJ	DGJ05		7	Chamaecyparis_obtusa_formosana	8	30	log	6	M	Up		
+DGJ	DGJ05		8	Chamaecyparis_obtusa_formosana	6.5	30	log	6	M	Up		
+DGJ	DGJ06		1	Chamaecyparis_obtusa_formosana	5.5	20	log	3	L	Up		
+DGJ	DGJ06		2	Chamaecyparis_obtusa_formosana	3.8	20	log	3	L	Up		Intra
+DGJ	DGJ06		3	Chamaecyparis_obtusa_formosana	6.7	20	log	3	L	Up		Intra
+DGJ	DGJ06		4	Chamaecyparis_obtusa_formosana	5	20	log	3	L	Up		Intra
+DGJ	DGJ06		5	Chamaecyparis_obtusa_formosana	6.4	20	log	3	L	Up		Inter
+DGJ	DGJ06		6	Chamaecyparis_obtusa_formosana	5	20	log	3	L	Up		Intra
+DGJ	DGJ06		7	Chamaecyparis_obtusa_formosana	7	20	log	3	L	Up		Intra
+DGJ	DGJ06		8	Chamaecyparis_obtusa_formosana	7	20	log	3	L	Up		
+DGJ	DGJ06		9	Chamaecyparis_obtusa_formosana	6.8	20	log	3	L	Up		Inter
+DGJ	DGJ06		10	Chamaecyparis_obtusa_formosana	5.8	20	log	3	L	Up		
+DGJ	DGJ06		11	Chamaecyparis_obtusa_formosana	5.4	20	log	3	L	Up		Inter
+DGJ	DGJ06		12	Tsuga_chinensis	6	20	log	3	L	Up		Inter
+DGJ	DGJ06		13	Chamaecyparis_obtusa_formosana	15.3	20	log	3	X	Up		
+DGJ	DGJ07		1	Chamaecyparis_obtusa_formosana	6	75	log	4	M	Up		
+DGJ	DGJ07		2	Chamaecyparis_obtusa_formosana	7.2	75	log	4	M	Up		
+DGJ	DGJ07		3	Chamaecyparis_obtusa_formosana	7.4	75	log	4	M	Up		
+DGJ	DGJ07		4	Chamaecyparis_obtusa_formosana	9.2	80	log	4	M	Up		
+DGJ	DGJ07		5	Chamaecyparis_obtusa_formosana	5.5	100	log	4	M	Up		
+DGJ	DGJ07		6	Chamaecyparis_obtusa_formosana	6	100	log	4	X	Up		Inter
+DGJ	DGJ07		7	Chamaecyparis_obtusa_formosana	7	100	log	4	M	Up		
+DGJ	DGJ07		8	Chamaecyparis_obtusa_formosana	8.7	100	log	4	X	Up		Inter
+DGJ	DGJ07		9	Chamaecyparis_obtusa_formosana	5.2	100	log	4	M	Up		
+DGJ	DGJ07		10	Chamaecyparis_obtusa_formosana	7	100	log	4	X	Up		
+DGJ	DGJ08		1	Chamaecyparis_obtusa_formosana	3.6	35	log	4	M	Up		Intra
+DGJ	DGJ08		2	Chamaecyparis_obtusa_formosana	4.9	35	log	4	M	Up		
+DGJ	DGJ08		3	Chamaecyparis_obtusa_formosana	7.8	35	log	4	M	Up		
+DGJ	DGJ08		4	Chamaecyparis_obtusa_formosana	6.7	35	log	4	M	Up		
+DGJ	DGJ08		5	Chamaecyparis_obtusa_formosana	3.8	35	log	4	M	Up		
+DGJ	DGJ08		6	Chamaecyparis_obtusa_formosana	7.2	35	log	4	M	Up		Inter
+DGJ	DGJ08		7	Chamaecyparis_obtusa_formosana	6.8	35	log	4	M	Up		Inter
+DGJ	DGJ08		8	Chamaecyparis_obtusa_formosana	5.3	35	log	4	M	Side		
+DGJ	DGJ08		9	Chamaecyparis_obtusa_formosana	4.7	35	log	4	M	Up		
+DGJ	DGJ08		10	Chamaecyparis_obtusa_formosana	6.7	35	log	4	M	Up		
+DGJ	DGJ08		11	Chamaecyparis_obtusa_formosana	5.5	35	log	4	M	Up		
+TSS	TSS07		1	Chamaecyparis_obtusa_formosana	5.6	0	soil		M	Up		
+TSS	TSS07		2	Chamaecyparis_obtusa_formosana	4	0	soil		M	Up		
+TSS	TSS07		3	Chamaecyparis_obtusa_formosana	3.8	0	soil		M	Up		
+TSS	TSS07		4	Chamaecyparis_obtusa_formosana	4.7	0	soil		M	Up		
+TSS	TSS07		5	Chamaecyparis_obtusa_formosana	4.1	0	soil		M	Up		
+TSS	TSS07		6	Chamaecyparis_obtusa_formosana	4.9	0	soil		M	Up		
+TSS	TSS07		7	Chamaecyparis_obtusa_formosana	6.6	0	soil		M	Up		
+TSS	TSS07		8	Tsuga_chinensis	5.2	0	soil		M	Up		
+TSS	TSS08		1	Chamaecyparis_obtusa_formosana	6	65	branch	2	M	Up		
+TSS	TSS08		2	Chamaecyparis_obtusa_formosana	7.2	65	branch	2	M	Up		
+TSS	TSS08		3	Chamaecyparis_obtusa_formosana	7.7	65	branch	2	M	Up		
+TSS	TSS08		4	Chamaecyparis_obtusa_formosana	6.5	65	branch	2	M	Up		
+TSS	TSS08		5	Chamaecyparis_obtusa_formosana	4.7	65	branch	2	M	Up		
+TSS	TSS08		6	Chamaecyparis_obtusa_formosana	8.2	65	branch	2	M	Up		
+WDY	WDY07		1	Chamaecyparis_obtusa_formosana	6	60	stump	3	M	Up		
+WDY	WDY07		2	Chamaecyparis_obtusa_formosana	4.3	60	stump	3	M	Up		
+WDY	WDY07		3	Chamaecyparis_obtusa_formosana	7.9	60	stump	3	M	Up		Inter
+WDY	WDY07		4	Chamaecyparis_obtusa_formosana	10	60	stump	3	M	Up		Inter
+WDY	WDY07		5	Chamaecyparis_obtusa_formosana	5.5	60	stump	3	M	Up		
+WDY	WDY07		6	Chamaecyparis_obtusa_formosana	6	60	stump	3	M	Up		
+WDY	WDY07		7	Chamaecyparis_obtusa_formosana	5	60	stump	3	L	Up		
+WDY	WDY07		8	Chamaecyparis_obtusa_formosana	6.7	60	stump	3	L	Up		
+WDY	WDY07		9	Chamaecyparis_obtusa_formosana	6.1	60	stump	3	M	Up		Inter
+WDY	WDY07		10	Chamaecyparis_obtusa_formosana	4.5	60	stump	3	M	Up		
+WDY	WDY08		1	Chamaecyparis_obtusa_formosana	5.7	110	stump	3	M	Up		
+WDY	WDY08		2	Chamaecyparis_obtusa_formosana	5.8	110	stump	3	M	Up		
+WDY	WDY08		3	Chamaecyparis_obtusa_formosana	5.7	110	stump	3	M	Up		
+WDY	WDY08		4	Chamaecyparis_obtusa_formosana	5.8	110	stump	3	M	Up		
+WDY	WDY08		5	Chamaecyparis_obtusa_formosana	4.3	110	stump	3	L	Up		
+WDY	WDY08		6	Chamaecyparis_obtusa_formosana	5.2	110	stump	3	L	Up		
+WDY	WDY08		7	Chamaecyparis_obtusa_formosana	6	110	stump	3	M	Up		
+LPP	LPP08		1	Chamaecyparis_obtusa_formosana	3.7	125	log	4	M	Side		
+LPP	LPP08		2	Chamaecyparis_obtusa_formosana	3.9	135	log	4	M	Up		
+LPP	LPP08		3	Chamaecyparis_obtusa_formosana	4.2	135	log	4	M	Up		
+LPP	LPP08		4	Chamaecyparis_obtusa_formosana	5.1	135	log	4	M	Up		
+LPP	LPP08		5	Chamaecyparis_obtusa_formosana	8.1	135	log	4	M	Up		
+LPP	LPP07		1	Chamaecyparis_obtusa_formosana	5.7	130	branch	6	M	Up		
+LPP	LPP07		2	Chamaecyparis_obtusa_formosana	5.5	140	branch	6	M	Up		
+LPP	LPP07		3	Chamaecyparis_obtusa_formosana	5.7	140	branch	6	M	Up		
+LPP	LPP07		4	Chamaecyparis_obtusa_formosana	5	140	branch	6	M	Up		
+LPP	LPP07		5	Chamaecyparis_obtusa_formosana	4.4	140	branch	6	X	Up		
+LPP	LPP07		6	Chamaecyparis_obtusa_formosana	6.5	155	branch	6	M	Up		
+LPP	LPP06		1	Chamaecyparis_obtusa_formosana	6.5	0	log	4	L	Up		
+LPP	LPP06		2	Chamaecyparis_obtusa_formosana	5.4	40	log	4	M	Up		
+LPP	LPP06		3	Chamaecyparis_obtusa_formosana	8	35	log	4	M	Up		
+LPP	LPP06		4	Chamaecyparis_obtusa_formosana	6.8	35	log	4	M	Up		
+LPP	LPP06		5	Chamaecyparis_obtusa_formosana	3.7	35	log	4	M	Up		
+LPP	LPP05		1	Chamaecyparis_obtusa_formosana	6.8	0	soil		L	Up		
+LPP	LPP05		2	Chamaecyparis_obtusa_formosana	5	0	soil		M	Up		
+LPP	LPP05		3	Chamaecyparis_obtusa_formosana	3.3	0	soil		L	Up		Inter
+LPP	LPP05		4	Chamaecyparis_obtusa_formosana	4.6	0	soil		M	Up		
+LPP	LPP05		5	Chamaecyparis_obtusa_formosana	5	0	soil		M	Up		
+LPP	LPP05		6	Chamaecyparis_obtusa_formosana	6.5	0	soil		M	Up		
+LPP	LPP05		7	Chamaecyparis_obtusa_formosana	9.3	0	soil		M	Up		
+LPP	LPP04		1	Chamaecyparis_obtusa_formosana	6	220	mat		L	Up		
+LPP	LPP04		2	Chamaecyparis_obtusa_formosana	5.7	220	mat		L	Up		
+LPP	LPP04		3	Chamaecyparis_obtusa_formosana	4.1	220	mat		L	Up		
+LPP	LPP04		4	Chamaecyparis_obtusa_formosana	5	220	mat		L	Up		
+LPP	LPP04		5	Chamaecyparis_obtusa_formosana	6.5	220	mat		L	Up		
+LPP	LPP04		6	Chamaecyparis_obtusa_formosana	4.2	220	mat		L	Up		
+LPP	LPP04		7	Chamaecyparis_obtusa_formosana	5.9	220	mat		M	Up		
+LPP	LPP04		8	Chamaecyparis_obtusa_formosana	5	220	mat		M	Up		Intra
+LPP	LPP04		9	Chamaecyparis_obtusa_formosana	4.4	220	mat		M	Up		Intra
+LPP	LPP04		10	Chamaecyparis_obtusa_formosana	3.5	220	mat		M	Up		
+LPP	LPP04		11	Chamaecyparis_obtusa_formosana	8.8	220	mat		L	Up		
+LPP	LPP04		12	Chamaecyparis_obtusa_formosana	6.2	220	mat		L	Up		Intra
+LPP	LPP04		13	Chamaecyparis_obtusa_formosana	6.1	220	mat		L	Up		Intra
+LPP	LPP04		14	Chamaecyparis_obtusa_formosana	5.6	220	mat		L	Up		
+LPP	LPP04		15	Chamaecyparis_obtusa_formosana	6.4	220	mat		L	Up		
+LPP	LPP04		16	Chamaecyparis_obtusa_formosana	7.5	220	mat		L	Up		Intra
+LPP	LPP04		17	Chamaecyparis_obtusa_formosana	5	220	mat		L	Up		Intra
+LPP	LPP04		18	Chamaecyparis_obtusa_formosana	7	220	mat		M	Up		
+LPP	LPP04		19	Chamaecyparis_obtusa_formosana	8.1	220	mat		M	Up		
+LPP	LPP03		1	Chamaecyparis_obtusa_formosana	6.3	110	log	4	M	Up		
+LPP	LPP03		2	Chamaecyparis_obtusa_formosana	8.6	110	log	4	M	Up		
+LPP	LPP03		3	Chamaecyparis_obtusa_formosana	7.3	110	log	4	M	Up		
+LPP	LPP03		4	Chamaecyparis_obtusa_formosana	7.3	110	log	4	M	Up		
+LPP	LPP03		5	Chamaecyparis_obtusa_formosana	4.7	110	log	4	M	Up		Inter
+LPP	LPP02		1	Chamaecyparis_obtusa_formosana	5.6	25	log	6	M	Side		
+LPP	LPP02		2	Chamaecyparis_obtusa_formosana	5	30	log	6	M	Up		Intra
+LPP	LPP02		3	Chamaecyparis_obtusa_formosana	5.8	30	log	6	M	Up		Intra
+LPP	LPP02		4	Chamaecyparis_obtusa_formosana	4.2	30	log	6	M	Up		
+LPP	LPP02		5	Chamaecyparis_obtusa_formosana	4.7	30	log	6	M	Up		
+LPP	LPP01		1	Chamaecyparis_obtusa_formosana	6.1	35	log	6	M	Up		
+LPP	LPP01		2	Chamaecyparis_obtusa_formosana	3	35	log	6	M	Up		
+LPP	LPP01		3	Chamaecyparis_obtusa_formosana	4.6	30	log	6	M	Side		
+LPP	LPP01		4	Chamaecyparis_obtusa_formosana	6	30	log	6	M	Side		
+LPP	LPP01		5	Chamaecyparis_obtusa_formosana	5	30	log	6	M	Side		
+LPP	LPP01		6	Chamaecyparis_obtusa_formosana	5.2	30	log	6	M	Side		Inter
+LPP	LPP01		7	Chamaecyparis_obtusa_formosana	4.4	30	log	6	M	Side		Inter
+LPP	LPP01		8	Chamaecyparis_obtusa_formosana	4.7	40	log	6	M	Up		
+LPP	LPP01		9	Chamaecyparis_obtusa_formosana	4.2	60	log	6	M	Up		Inter
+LPP	LPP01		10	Chamaecyparis_obtusa_formosana	3.5	60	log	6	M	Up		
+LLS	LLS08		1	Chamaecyparis_obtusa_formosana	4.5	65	log	5	M	Up		
+LLS	LLS08		2	Chamaecyparis_obtusa_formosana	6.3	65	log	5	M	Up		
+LLS	LLS08		3	Chamaecyparis_obtusa_formosana	5.5	65	log	5	M	Up		
+LLS	LLS08		4	Chamaecyparis_obtusa_formosana	5.5	65	log	5	L	Up		
+LLS	LLS08		5	Chamaecyparis_obtusa_formosana	5.5	65	log	5	L	Up		
+LLS	LLS08		6	Chamaecyparis_obtusa_formosana	4	65	log	5	M	Up		
+LLS	LLS08		7	Chamaecyparis_obtusa_formosana	4.5	70	log	5	M	Up		
+LLS	LLS08		8	Chamaecyparis_obtusa_formosana	4	65	log	5	M	Up		
+LLS	LLS08		9	Chamaecyparis_obtusa_formosana	3.3	65	log	5	M	Up		
+LLS	LLS08		10	Chamaecyparis_obtusa_formosana	3.6	65	log	5	M	Up		
+LLS	LLS08		11	Chamaecyparis_obtusa_formosana	4	65	log	5	M	Up		
+LLS	LLS08		12	Chamaecyparis_obtusa_formosana	4.4	65	log	5	M	Up		
+LLS	LLS08		13	Chamaecyparis_obtusa_formosana	3.3	65	log	5	M	Up		
+LLS	LLS08		14	Chamaecyparis_obtusa_formosana	4	65	log	5	M	Up		
+LLS	LLS08		15	Chamaecyparis_obtusa_formosana	5	65	log	5	M	Up		
+LLS	LLS08		16	Chamaecyparis_obtusa_formosana	2.8	65	log	5	M	Up		
+LLS	LLS08		17	Chamaecyparis_obtusa_formosana	5	65	log	5	L	Up		
+LLS	LLS08		18	Chamaecyparis_obtusa_formosana	4.3	65	log	5	M	Up		
+LLS	LLS08		19	Chamaecyparis_obtusa_formosana	4.9	65	log	5	L	Up		
+LLS	LLS07		1	Chamaecyparis_obtusa_formosana	6.5	5	log	6	M	Up		
+LLS	LLS07		2	Chamaecyparis_obtusa_formosana	5	10	log	6	M	Up		
+LLS	LLS07		3	Chamaecyparis_obtusa_formosana	5.1	5	log	6	M	Side		
+LLS	LLS07		4	Chamaecyparis_obtusa_formosana	3.1	20	log	6	M	Up		
+LLS	LLS07		5	Chamaecyparis_obtusa_formosana	3.8	15	log	6	M	Up		
+LLS	LLS07		6	Chamaecyparis_obtusa_formosana	3.5	5	log	6	M	Up		
+LLS	LLS07		7	Chamaecyparis_obtusa_formosana	4	5	log	6	L	Side		
+LLS	LLS07		8	Chamaecyparis_obtusa_formosana	3	5	log	6	L	Side		
+LLS	LLS07		9	Chamaecyparis_obtusa_formosana	3.2	0	log	6	M	Side		
+LLS	LLS07		10	Chamaecyparis_obtusa_formosana	4.6	0	log	6	M	Side		
+LLS	LLS06		1	Chamaecyparis_obtusa_formosana	5.1	0	soil		M	Up		Intra
+LLS	LLS06		2	Chamaecyparis_obtusa_formosana	6.5	0	soil		M	Up		Intra
+LLS	LLS06		3	Chamaecyparis_obtusa_formosana	4.3	0	soil		M	Up		Intra
+LLS	LLS06		4	Chamaecyparis_obtusa_formosana	5	0	soil		M	Up		Intra
+LLS	LLS06		5	Chamaecyparis_obtusa_formosana	6	0	soil		M	Up		
+LLS	LLS06		6	Chamaecyparis_obtusa_formosana	8	0	soil		L	Up		
+LLS	LLS06		7	Chamaecyparis_obtusa_formosana	4.2	0	soil		M	Up		
+LLS	LLS06		8	Chamaecyparis_obtusa_formosana	6	0	soil		M	Up		
+LLS	LLS06		9	Chamaecyparis_obtusa_formosana	4.3	0	soil		M	Up		
+LLS	LLS05		1	Chamaecyparis_obtusa_formosana	3	80	log	6	M	Up		
+LLS	LLS05		2	Chamaecyparis_obtusa_formosana	3	70	log	6	M	Up		
+LLS	LLS05		3	Chamaecyparis_obtusa_formosana	5.1	70	log	6	M	Up		
+LLS	LLS05		4	Chamaecyparis_obtusa_formosana	4	60	log	6	M	Up		
+LLS	LLS05		5	Chamaecyparis_obtusa_formosana	4.5	60	log	6	M	Side		
+LLS	LLS04		1	Chamaecyparis_obtusa_formosana	5.5	30	log	4	L	Up		
+LLS	LLS04		2	Chamaecyparis_obtusa_formosana	5.7	30	log	4	M	Up		
+LLS	LLS04		3	Chamaecyparis_obtusa_formosana	7	30	log	4	M	Up		
+LLS	LLS04		4	Chamaecyparis_obtusa_formosana	5.8	30	log	4	M	Up		
+LLS	LLS04		5	Chamaecyparis_obtusa_formosana	12.4	30	log	4	M	Side		
+LLS	LLS03		1	Chamaecyparis_obtusa_formosana	6.5	90	log	3	M	Side		
+LLS	LLS03		2	Chamaecyparis_obtusa_formosana	5.2	90	log	3	M	Side		
+LLS	LLS03		3	Chamaecyparis_obtusa_formosana	5.2	90	log	3	M	Side		
+LLS	LLS03		4	Chamaecyparis_obtusa_formosana	4	95	log	3	M	Up		
+LLS	LLS03		5	Chamaecyparis_obtusa_formosana	9.3	90	log	3	M	Side		
+LLS	LLS03		6	Chamaecyparis_obtusa_formosana	3.4	90	log	3	M	Side		Intra
+LLS	LLS03		7	Chamaecyparis_obtusa_formosana	8.2	100	log	3	M	Up		
+LLS	LLS02		1	Chamaecyparis_obtusa_formosana	5.2	15	mat		M	Up		
+LLS	LLS02		2	Chamaecyparis_obtusa_formosana	5	15	mat		M	Up		
+LLS	LLS02		3	Chamaecyparis_obtusa_formosana	5.2	15	mat		L	Up		
+LLS	LLS02		4	Chamaecyparis_obtusa_formosana	3.5	20	mat		M	Up		
+LLS	LLS02		5	Chamaecyparis_obtusa_formosana	4.6	40	mat		M	Up		
+LLS	LLS02		6	Chamaecyparis_obtusa_formosana	6.5	40	mat		L	Up		
+LLS	LLS02		7	Chamaecyparis_obtusa_formosana	6.5	40	mat		L	Up		
+LLS	LLS02		8	Chamaecyparis_obtusa_formosana	3.2	20	mat		L	Up		
+LLS	LLS02		9	Chamaecyparis_obtusa_formosana	4.8	20	mat		M	Up		
+LLS	LLS01		1	Chamaecyparis_obtusa_formosana	4.3	40	log	6	M	Side		
+LLS	LLS01		2	Chamaecyparis_obtusa_formosana	6.5	40	log	6	M	Side		
+LLS	LLS01		3	Chamaecyparis_obtusa_formosana	7.2	40	log	6	M	Side		
+LLS	LLS01		4	Chamaecyparis_obtusa_formosana	5	45	log	6	M	Up		
+LLS	LLS01		5	Chamaecyparis_obtusa_formosana	6.5	55	log	6	M	Up		
+LLS	LLS01		6	Chamaecyparis_obtusa_formosana	5.2	45	log	6	M	Up		
+LLS	LLS01		7	Chamaecyparis_obtusa_formosana	3	55	log	6	M	Up		
+LLS	LLS01		8	Chamaecyparis_obtusa_formosana	7	55	log	6	M	Up		
+DLM	DLM01		1	Chamaecyparis_obtusa_formosana	5.5	180	log	3	M	Up		
+DLM	DLM01		2	Chamaecyparis_obtusa_formosana	6	180	log	3	M	Up		
+DLM	DLM01		3	Chamaecyparis_obtusa_formosana	6.5	180	log	3	M	Up		
+DLM	DLM01		4	Chamaecyparis_obtusa_formosana	6.1	180	log	3	M	Up		
+DLM	DLM01		5	Chamaecyparis_obtusa_formosana	5	180	log	3	M	Up		
+DLM	DLM01		6	Chamaecyparis_obtusa_formosana	6	180	log	3	M	Up		
+DLM	DLM01		7	Chamaecyparis_obtusa_formosana	6	180	log	3	M	Up		
+DLM	DLM01		8	Chamaecyparis_obtusa_formosana	5.3	180	log	3	M	Up		Intra
+DLM	DLM01		9	Chamaecyparis_obtusa_formosana	7	180	log	3	M	Up		
+DLM	DLM01		10	Chamaecyparis_obtusa_formosana	4.2	180	log	3	M	Up		
+DLM	DLM01		11	Chamaecyparis_obtusa_formosana	9.7	180	log	3	M	Up		
+DLM	DLM01		12	Chamaecyparis_obtusa_formosana	8.5	180	log	3	M	Up		
+DLM	DLM01		13	Chamaecyparis_obtusa_formosana	9.4	180	log	3	M	Up		
+DLM	DLM01		14	Chamaecyparis_obtusa_formosana	5.5	180	log	3	M	Up		
+DLM	DLM01		15	Chamaecyparis_obtusa_formosana	10	180	log	3	M	Up		
+DLM	DLM02		1	Chamaecyparis_obtusa_formosana	8	90	log	5	M	Up		
+DLM	DLM02		2	Chamaecyparis_obtusa_formosana	7.1	90	log	5	M	Up		
+DLM	DLM02		3	Chamaecyparis_obtusa_formosana	7.6	85	log	5	M	Up		
+DLM	DLM02		4	Chamaecyparis_obtusa_formosana	8.7	85	log	5	M	Up		
+DLM	DLM02		5	Chamaecyparis_obtusa_formosana	10.7	85	log	5	M	Up		
+DLM	DLM02		6	Chamaecyparis_obtusa_formosana	12.5	75	log	5	M	Up		
+DLM	DLM02		7	Chamaecyparis_obtusa_formosana	7.5	70	log	5	M	Up		
+DLM	DLM02		8	Chamaecyparis_obtusa_formosana	4.7	90	log	5	M	Up		
+DLM	DLM02		9	Chamaecyparis_obtusa_formosana	3.4	80	log	5	M	Up		
+DLM	DLM02		10	Chamaecyparis_obtusa_formosana	7.5	80	log	5	M	Up		
+DLM	DLM02		11	Chamaecyparis_obtusa_formosana	6.4	90	log	5	L	Up		
+DLM	DLM03		1	Chamaecyparis_obtusa_formosana	9	50	log	3	M	Up		
+DLM	DLM03		2	Chamaecyparis_obtusa_formosana	7.2	50	log	3	M	Up		
+DLM	DLM03		3	Chamaecyparis_obtusa_formosana	7.3	50	log	3	M	Up		
+DLM	DLM03		4	Chamaecyparis_obtusa_formosana	7.3	50	log	3	M	Up		
+DLM	DLM03		5	Chamaecyparis_obtusa_formosana	6.9	50	log	3	M	Up		
+DLM	DLM03		6	Chamaecyparis_obtusa_formosana	5.4	50	log	3	M	Up		
+DLM	DLM04		1	Chamaecyparis_obtusa_formosana	6.2	70	log	4	X	Up		
+DLM	DLM04		2	Chamaecyparis_obtusa_formosana	4.5	70	log	4	M	Up		
+DLM	DLM04		3	Chamaecyparis_obtusa_formosana	7	70	log	4	M	Up		
+DLM	DLM04		4	Chamaecyparis_obtusa_formosana	8.3	70	log	4	L	Up		
+DLM	DLM04		5	Chamaecyparis_obtusa_formosana	6.1	70	log	4	M	Up		Intra
+DLM	DLM04		6	Chamaecyparis_obtusa_formosana	6	70	log	4	M	Up		Intra
+DLM	DLM05		1	Chamaecyparis_obtusa_formosana	5.8	0	soil		L	Up		
+DLM	DLM05		2	Chamaecyparis_obtusa_formosana	5.5	0	soil		M	Up		
+DLM	DLM05		3	Chamaecyparis_obtusa_formosana	4.5	0	soil		M	Up		
+DLM	DLM05		4	Chamaecyparis_obtusa_formosana	6	0	soil		L	Up		
+DLM	DLM05		5	Chamaecyparis_obtusa_formosana	6.3	0	soil		L	Up		
+DLM	DLM05		6	Chamaecyparis_obtusa_formosana	6.8	0	soil		M	Up		
+DLM	DLM06		1	Chamaecyparis_obtusa_formosana	4.1	100	log	5	M	Up		
+DLM	DLM06		2	Chamaecyparis_obtusa_formosana	5.1	100	log	5	M	Up		
+DLM	DLM06		3	Chamaecyparis_obtusa_formosana	4.8	100	log	5	M	Up		
+DLM	DLM06		4	Chamaecyparis_obtusa_formosana	4.6	100	log	5	L	Up		
+DLM	DLM06		5	Chamaecyparis_obtusa_formosana	6	100	log	5	L	Up		
+DLM	DLM06		6	Chamaecyparis_obtusa_formosana	5.6	100	log	5	L	Up		
+DLM	DLM06		7	Chamaecyparis_obtusa_formosana	4.3	100	log	5	L	Up		
+DLM	DLM06		8	Chamaecyparis_obtusa_formosana	4.5	100	log	5	M	Up		
+DLM	DLM06		9	Chamaecyparis_obtusa_formosana	7.5	100	log	5	M	Up		
+DLM	DLM07		1	Chamaecyparis_obtusa_formosana	6	60	mat		M	Up		
+DLM	DLM07		2	Chamaecyparis_obtusa_formosana	5.6	60	mat		M	Up		
+DLM	DLM07		3	Chamaecyparis_obtusa_formosana	8.3	60	mat		M	Up		
+DLM	DLM07		4	Chamaecyparis_obtusa_formosana	4.5	60	mat		M	Up		
+DLM	DLM07		5	Chamaecyparis_obtusa_formosana	6.6	60	mat		L	Up		
+DLM	DLM07		6	Chamaecyparis_obtusa_formosana	14.6	60	mat		M	Up		
+DLM	DLM08		1	Chamaecyparis_obtusa_formosana	7.5	55	log	6	M	Up		
+DLM	DLM08		2	Chamaecyparis_obtusa_formosana	9.5	55	log	6	M	Up		
+DLM	DLM08		3	Chamaecyparis_obtusa_formosana	10.3	35	log	6	M	Side		
+DLM	DLM08		4	Chamaecyparis_obtusa_formosana	7.5	35	log	6	M	Side		
+DLM	DLM08		5	Chamaecyparis_obtusa_formosana	4.2	25	log	6	M	Side		
+DLM	DLM08		6	Chamaecyparis_obtusa_formosana	4	60	log	6	M	Up		
+DLM	DLM08		7	Chamaecyparis_obtusa_formosana	3.1	60	log	6	M	Up		
+DLS	DLS01		1	Chamaecyparis_obtusa_formosana	3.5	110	log	6	L	Up		
+DLS	DLS01		2	Chamaecyparis_obtusa_formosana	5.1	130	log	6	L	Up		
+DLS	DLS01		3	Chamaecyparis_obtusa_formosana	5.3	130	log	6	L	Up		
+DLS	DLS01		4	Chamaecyparis_obtusa_formosana	6.3	130	log	6	L	Up		
+DLS	DLS01		5	Chamaecyparis_obtusa_formosana	5	135	log	6	L	Up		
+DLS	DLS01		6	Chamaecyparis_obtusa_formosana	6.1	135	log	6	L	Up		
+DLS	DLS02		1	Chamaecyparis_obtusa_formosana	5.3	60	mat		M	Up		
+DLS	DLS02		2	Chamaecyparis_obtusa_formosana	4	60	mat		M	Up		
+DLS	DLS02		3	Chamaecyparis_obtusa_formosana	4.3	45	mat		M	Up		
+DLS	DLS02		4	Chamaecyparis_obtusa_formosana	5.6	45	mat		M	Up		
+DLS	DLS02		5	Chamaecyparis_obtusa_formosana	5	45	mat		M	Up		
+DLS	DLS03		1	Chamaecyparis_obtusa_formosana	4.6	105	stump	5	L	Up		
+DLS	DLS03		2	Chamaecyparis_obtusa_formosana	5.8	105	stump	5	L	Up		
+DLS	DLS03		3	Chamaecyparis_obtusa_formosana	4.3	105	stump	5	L	Up		
+DLS	DLS03		4	Chamaecyparis_obtusa_formosana	5.1	110	stump	5	L	Up		
+DLS	DLS03		5	Chamaecyparis_obtusa_formosana	4.2	105	stump	5	L	Up		
+DLS	DLS03		6	Chamaecyparis_obtusa_formosana	5.2	105	stump	5	L	Up		
+DLS	DLS03		7	Chamaecyparis_obtusa_formosana	5.3	100	stump	5	L	Up		
+DLS	DLS03		8	Chamaecyparis_obtusa_formosana	4.6	100	stump	5	L	Up		
+DLS	DLS03		9	Chamaecyparis_obtusa_formosana	4.6	100	stump	5	L	Up		
+DLS	DLS04		1	Chamaecyparis_obtusa_formosana	6.9	95	mineral soil		X	Up		
+DLS	DLS04		2	Chamaecyparis_obtusa_formosana	5	95	mineral soil		X	Up		
+DLS	DLS04		3	Chamaecyparis_obtusa_formosana	6.9	95	mineral soil		X	Up		
+DLS	DLS04		4	Chamaecyparis_obtusa_formosana	6.9	95	mineral soil		X	Up		
+DLS	DLS04		5	Chamaecyparis_obtusa_formosana	8	95	mineral soil		L	Up		
+DLS	DLS04		6	Chamaecyparis_obtusa_formosana	10.4	95	mineral soil		X	Up		
+DLS	DLS04		7	Chamaecyparis_obtusa_formosana	12	95	mineral soil		X	Up		
+DLS	DLS04		8	Chamaecyparis_obtusa_formosana	7	95	mineral soil		X	Up		
+DLS	DLS04		9	Chamaecyparis_obtusa_formosana	6.5	95	mineral soil		X	Up		
+DLS	DLS04		10	Chamaecyparis_obtusa_formosana	6.5	95	mineral soil		X	Up		
+DLS	DLS04		11	Chamaecyparis_obtusa_formosana	7	95	mineral soil		M	Up		
+DLS	DLS04		12	Chamaecyparis_obtusa_formosana	6	95	mineral soil		M	Up		
+DLS	DLS04		13	Chamaecyparis_obtusa_formosana	8.5	95	mineral soil		X	Up		
+DLS	DLS05		1	Chamaecyparis_obtusa_formosana	7.7	50	mat		L	Up		
+DLS	DLS05		2	Chamaecyparis_obtusa_formosana	8	50	mat		M	Up		
+DLS	DLS05		3	Chamaecyparis_obtusa_formosana	5.3	45	mat		L	Up		
+DLS	DLS05		4	Chamaecyparis_obtusa_formosana	5.3	75	mat		M	Up		
+DLS	DLS05		5	Chamaecyparis_obtusa_formosana	7.2	75	mat		L	Up		
+DLS	DLS05		6	Chamaecyparis_obtusa_formosana	10.6	75	mat		M	Up		
+DLS	DLS06		1	Chamaecyparis_obtusa_formosana	8.4	25	mat		M	Up		
+DLS	DLS06		2	Chamaecyparis_obtusa_formosana	6.4	40	mat		M	Up		
+DLS	DLS06		3	Chamaecyparis_obtusa_formosana	9.9	25	mat		M	Up		
+DLS	DLS06		4	Chamaecyparis_obtusa_formosana	5	10	mat		L	Side		
+DLS	DLS06		5	Chamaecyparis_obtusa_formosana	3.5	10	mat		L	Side		Intra
+DLS	DLS07		1	Chamaecyparis_obtusa_formosana	6.7	25	log	5	M	Up		
+DLS	DLS07		2	Chamaecyparis_obtusa_formosana	8.5	30	log	5	M	Up		
+DLS	DLS07		3	Chamaecyparis_obtusa_formosana	9.7	30	log	5	M	Up		
+DLS	DLS07		4	Chamaecyparis_obtusa_formosana	9.7	40	log	5	M	Up		
+DLS	DLS07		5	Chamaecyparis_obtusa_formosana	4.1	30	log	5	M	Up		
+DLS	DLS08		1	Chamaecyparis_obtusa_formosana	6.5	90	log	4	M	Up		
+DLS	DLS08		2	Chamaecyparis_obtusa_formosana	8.5	90	log	4	M	Up		
+DLS	DLS08		3	Chamaecyparis_obtusa_formosana	9.7	95	log	4	L	Up		
+DLS	DLS08		4	Chamaecyparis_obtusa_formosana	7.4	95	log	4	L	Up		
+DLS	DLS08		5	Chamaecyparis_obtusa_formosana	7.1	95	log	4	M	Up		
+DLS	DLS08		6	Chamaecyparis_obtusa_formosana	8.1	95	log	4	M	Up		

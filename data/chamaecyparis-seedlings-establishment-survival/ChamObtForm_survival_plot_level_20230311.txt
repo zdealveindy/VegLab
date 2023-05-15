@@ -1,38 +1,38 @@
-Plot_ID	ID	Region	Type	Subtype_old	Subtype	cv	decay	moss_cv	moss_th	Saphg_cv	Saphg_th	litter_cv	litter_th	herb_cv	herb_ht	Sd_cv
-DGJ_01	1	DGJ	CWD_halfD	log	CWD_halfD	70	3.5	60	2	0	0	20	2	r	4	+
-DGJ_02	3	DGJ	CWD_halfD	log	CWD_D	75	3.5	65	3	0	0	5	2	+	20	+
-DGJ_03	5	DGJ	CWD_D	stump	mat	85	4	65	2	0	0	25	3	+	30	2m
-DGJ_04	7	DGJ	CWD_D	log	CWD_halfD	85	4	10	3	0	0	0	0	+	8	+
-DLM_01	9	DLM	CWD_D	log	CWD_D	80	4	85	6	0	0	5	2	r		1
-DLM_02	11	DLM	CWD_D	log	CWD_halfD	50	4	60	3	0	0	15	3	+		1
-DLM_03	13	DLM	Soil	soil	soil	90		55	2	0	0	15	1	r		+
-DLM_04	15	DLM	CWD_D	stump	mat	65	5	5	2	0	0	10	3	1		NA
-DLS_01	17	DLS	CWD_D	log	CWD_halfD	92	4	30	3	0	0	40	3	+	20	+
-DLS_02	19	DLS	CWD_D	log	CWD_halfD	80	4	20	3	0	0	55	2	0	0	+
-DLS_03	21	DLS	CWD_D	snag	CWD_halfD	100	3.5	25	3	0	0	5	5	r	4	+
-DLS_04	23	DLS	CWD_D	log	CWD_halfD	60	4	15	1.5	0	0	60	2	0	0	2m
-DLS_04	23	DLS	CWD_halfD	log	CWD_nonD	40	2	20	0.5	0	0	30	2	0	0	2m
-LLS_01	24	LLS	CWD_halfD	stump	CWD_halfD	60	3	80	2	0	0	10	1	+	3	+
-LLS_02	26	LLS	CWD_halfD	log	CWD_halfD	50	3	75	3	0	0	5	1	+	5	+
-LLS_03	28	LLS	CWD_D	log	CWD_halfD	90	4	75	1.5	0	0	20	5	r	4	1
-LLS_04	30	LLS	CWD_D	log	CWD_halfD	65	4	60	2.5	0	0	20	2.5	1	10	+
-LPP_01	32	LPP	CWD_D	log	CWD_halfD	40	4	90	2.5	0	0	5	2.5	r	3	1
-LPP_02	34	LPP	CWD_D	log	CWD_halfD	95	4	60	3	0	0	30	2	2m	20	1
-LPP_03	36	LPP	CWD_D	log	CWD_halfD	60	4	60	2.5	0	0	10	2	2a	40	+
-LPP_04	38	LPP	Soil	soil	soil	100		75	2	0	0	10	1.5	2m	25	+
-YYL_01	80	YYL	Living	living_root	mat	100	NA	20	3	60	7	10	2	2a	30	2m
-YYL_02	82	YYL	CWD_halfD	log	CWD_halfD	55	3	63	3	7	8	15	3	2m	20	+
-YYL_03	84	YYL	CWD_halfD	stump	mat	75	3	90	3	0	0	5	1	1	8	1
-YYL_04	86	YYL	CWD_D	stump	mat	95	4	10	3	55	5	20	4	+	10	2m
-TMS_03	52	TMM	Soil	soil	soil	94		18	3	0	0	50	2	1	15	+
-TMU_01	56	TMM	CWD_D	log	CWD_D	100	5	45	1.7	0	0	50	2	r	10	r
-TMU_02	58	TMM	CWD_D	stump	mat	100	5	4	2	0	0	65	3	2a	50	1
-TMU_03	60	TMM	CWD_D	stump	CWD_halfD	100	3.5	90	2	0	0	5	2	1	20	r
-TSS_01	64	TSS	CWD_D	log	CWD_D	100	5	45	3	0	0	40	4	1	13	1
-TSS_02	66	TSS	CWD_D	log	CWD_halfD	65	4	85	4	0	0	5	2	2a	15	+
-TSS_03	68	TSS	CWD_D	log	CWD_halfD	80	4	70	3	0	0	5	2.5	1	20	+
-TSS_04	70	TSS	CWD_D	log	CWD_D	40	5	65	2.5	0	0	10	2	1	25	+
-WDY_01	72	WDY	CWD_halfD	stump	mat	70	3	45	4	0	0	40	1	1	15	+
-WDY_02	74	WDY	Soil	soil	soil	90		65	3	0	0	15	2	1	13	+
-WDY_03	76	WDY	CWD_D	log	CWD_halfD	40	4	81	3	9	6	5	2	r	2	1
-WDY_04	78	WDY	Soil	soil	mat	85		65	2	0	0	20	2	2a	50	+
+Plot_ID	ID	Region	Type	Subtype_old	Subtype	cv	decay	moss_cv	moss_th	Saphg_cv	Saphg_th	litter_cv	litter_th	herb_cv	herb_ht	Sd_cv	Sp1_cv	Sp2_cv
+DGJ_01	1	DGJ	CWD_halfD	log	CWD_halfD	70	3.5	60	2	0	0	20	2	r	4	+	2m	NA
+DGJ_02	3	DGJ	CWD_halfD	log	CWD_D	75	3.5	65	3	0	0	5	2	+	20	+	NA	NA
+DGJ_03	5	DGJ	CWD_D	stump	mat	85	4	65	2	0	0	25	3	+	30	2m	NA	NA
+DGJ_04	7	DGJ	CWD_D	log	CWD_halfD	85	4	10	3	0	0	0	0	+	8	+	+	NA
+DLM_01	9	DLM	CWD_D	log	CWD_D	80	4	85	6	0	0	5	2	r		1	+	NA
+DLM_02	11	DLM	CWD_D	log	CWD_halfD	50	4	60	3	0	0	15	3	+		1	NA	NA
+DLM_03	13	DLM	Soil	soil	soil	90		55	2	0	0	15	1	r		+	NA	NA
+DLM_04	15	DLM	CWD_D	stump	mat	65	5	5	2	0	0	10	3	1		NA	NA	+
+DLS_01	17	DLS	CWD_D	log	CWD_halfD	92	4	30	3	0	0	40	3	+	20	+	+	NA
+DLS_02	19	DLS	CWD_D	log	CWD_halfD	80	4	20	3	0	0	55	2	0	0	+	NA	NA
+DLS_03	21	DLS	CWD_D	snag	CWD_halfD	100	3.5	25	3	0	0	5	5	r	4	+	NA	NA
+DLS_04	23	DLS	CWD_D	log	CWD_halfD	60	4	15	1.5	0	0	60	2	0	0	2m	NA	NA
+DLS_04	23	DLS	CWD_halfD	log	CWD_nonD	40	2	20	0.5	0	0	30	2	0	0	2m	NA	NA
+LLS_01	24	LLS	CWD_halfD	stump	CWD_halfD	60	3	80	2	0	0	10	1	+	3	+	NA	NA
+LLS_02	26	LLS	CWD_halfD	log	CWD_halfD	50	3	75	3	0	0	5	1	+	5	+	NA	NA
+LLS_03	28	LLS	CWD_D	log	CWD_halfD	90	4	75	1.5	0	0	20	5	r	4	1	+	NA
+LLS_04	30	LLS	CWD_D	log	CWD_halfD	65	4	60	2.5	0	0	20	2.5	1	10	+	NA	NA
+LPP_01	32	LPP	CWD_D	log	CWD_halfD	40	4	90	2.5	0	0	5	2.5	r	3	1	NA	NA
+LPP_02	34	LPP	CWD_D	log	CWD_halfD	95	4	60	3	0	0	30	2	2m	20	1	r	NA
+LPP_03	36	LPP	CWD_D	log	CWD_halfD	60	4	60	2.5	0	0	10	2	2a	40	+	r	NA
+LPP_04	38	LPP	Soil	soil	soil	100		75	2	0	0	10	1.5	2m	25	+	NA	NA
+YYL_01	80	YYL	Living	living_root	mat	100	NA	20	3	60	7	10	2	2a	30	2m	+	NA
+YYL_02	82	YYL	CWD_halfD	log	CWD_halfD	55	3	63	3	7	8	15	3	2m	20	+	NA	NA
+YYL_03	84	YYL	CWD_halfD	stump	mat	75	3	90	3	0	0	5	1	1	8	1	NA	NA
+YYL_04	86	YYL	CWD_D	stump	mat	95	4	10	3	55	5	20	4	+	10	2m	2m	NA
+TMS_03	52	TMM	Soil	soil	soil	94		18	3	0	0	50	2	1	15	+	1	NA
+TMU_01	56	TMM	CWD_D	log	CWD_D	100	5	45	1.7	0	0	50	2	r	10	r	NA	NA
+TMU_02	58	TMM	CWD_D	stump	mat	100	5	4	2	0	0	65	3	2a	50	1	2b	NA
+TMU_03	60	TMM	CWD_D	stump	CWD_halfD	100	3.5	90	2	0	0	5	2	1	20	r	£¡	NA
+TSS_01	64	TSS	CWD_D	log	CWD_D	100	5	45	3	0	0	40	4	1	13	1	NA	NA
+TSS_02	66	TSS	CWD_D	log	CWD_halfD	65	4	85	4	0	0	5	2	2a	15	+	1	NA
+TSS_03	68	TSS	CWD_D	log	CWD_halfD	80	4	70	3	0	0	5	2.5	1	20	+	+	NA
+TSS_04	70	TSS	CWD_D	log	CWD_D	40	5	65	2.5	0	0	10	2	1	25	+	2m	NA
+WDY_01	72	WDY	CWD_halfD	stump	mat	70	3	45	4	0	0	40	1	1	15	+	+	NA
+WDY_02	74	WDY	Soil	soil	soil	90		65	3	0	0	15	2	1	13	+	2b	NA
+WDY_03	76	WDY	CWD_D	log	CWD_halfD	40	4	81	3	9	6	5	2	r	2	1	2b	NA
+WDY_04	78	WDY	Soil	soil	mat	85		65	2	0	0	20	2	2a	50	+	1	NA

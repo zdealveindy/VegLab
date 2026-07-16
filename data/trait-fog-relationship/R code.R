@@ -1,3 +1,7 @@
+# Lin & Zeleny (2026): Effects of Fog Frequency on Leaf Traits in a Subtropical Montane Cloud Forest in Taiwan. Journal of Vegetation Science. https://doi.org/10.1111/jvs.70163
+
+# R code to analyze data (author: Shu-I Lin)
+
 # 1.	Library----
 library(dplyr)
 library(tidyr)
@@ -470,8 +474,8 @@ gg_align_plot <- function(gg_plotlist = NULL,
   grob_width_text <- ""
   for(i in 1:length(gg_plotlist)){
     gg_label <- 
-      ggdraw(gg_plotlist[[i]]) +
-      draw_text(paste0("(", letters[i], ")"), x = 0.10, y = 0.95, hjust = 1, vjust = 1, size = 24, fontface = "bold")
+      cowplot::ggdraw(gg_plotlist[[i]]) +
+      cowplot::draw_text(paste0("(", letters[i], ")"), x = 0.10, y = 0.95, hjust = 1, vjust = 1, size = 24, fontface = "bold")
     GG_list_grob[[i]] <- ggplotGrob(gg_label)
     grob_widths[[i]] <- GG_list_grob[[i]]$widths
     grob_text <- paste0(grob_text, "GG_list_grob[[", i, "]], ")
@@ -487,7 +491,7 @@ gg_align_plot <- function(gg_plotlist = NULL,
   } # for loop
   
   final_plot <- 
-    eval(parse(text = paste0("grid.arrange(", grob_text, "layout_matrix = layout)")))
+    eval(parse(text = paste0("gridExtra::grid.arrange(", grob_text, "layout_matrix = layout)")))
   return(final_plot)
 } # function
 
@@ -557,8 +561,7 @@ plant_domin_abbr <- function(x){
 {
 # 3.1. Import trait----
 raw_trait <- 
-  rio::import("https://github.com/r09b44030/trait-fog-relationship/raw/main/Trait.xlsx", 
-              sheet = "Trait") %>%
+  rio::import("https://github.com/zdealveindy/VegLab/raw/refs/heads/main/data/trait-fog-relationship/Trait.xlsx", sheet = "Trait") %>%
   mutate(latin = gsub(pattern = "[ ]", 
                       replacement = ".",
                       .$latin)) %>%
@@ -647,10 +650,10 @@ trait_cube <-
 # 4.	Species composition table ----
 {
 raw_composition <- 
-  rio::import("https://github.com/r09b44030/trait-fog-relationship/raw/main/Species%20composition.xlsx", 
+  rio::import("https://github.com/zdealveindy/VegLab/raw/refs/heads/main/data/trait-fog-relationship/Species%20composition.xlsx", 
               which = "Species_composition")
 plant_type <- 
-  rio::import("https://github.com/r09b44030/trait-fog-relationship/raw/main/Species%20composition.xlsx", 
+  rio::import("https://github.com/zdealveindy/VegLab/raw/refs/heads/main/data/trait-fog-relationship/Species%20composition.xlsx", 
               which = "Plant_type")
 }
 # 4.1. produce IVI table (for leaf)----
@@ -764,7 +767,7 @@ plant_dominance_df <-
 # 5.	Environmental variables table ----
 # 5.1. selected environmental variables----
 select_ENV <- 
-  rio::import("https://github.com/r09b44030/trait-fog-relationship/raw/main/Environmental%20variable.xlsx", 
+  rio::import("https://github.com/zdealveindy/VegLab/raw/refs/heads/main/data/trait-fog-relationship/Environmental%20variable.xlsx", 
               which = "Environmental_variables") %>%
   `rownames<-`(.$plot) %>%
   dplyr::select(-plot, -x, -y, -survey_date)
@@ -772,24 +775,24 @@ select_ENV <-
 
 # 5.2. monthly temperature----
 monthly_temp <- 
-  rio::import("https://github.com/r09b44030/trait-fog-relationship/raw/main/Environmental%20variable.xlsx", which = "Monthly_temp_and_fog") %>%
+  rio::import("https://github.com/zdealveindy/VegLab/raw/refs/heads/main/data/trait-fog-relationship/Environmental%20variable.xlsx", which = "Monthly_temp_and_fog") %>%
   `rownames<-`(.$plot) %>%
   dplyr::select(-plot) %>%
   dplyr::select(contains("temp"))
 
-monthly_temp[, 1:ncol(monthly_temp)] <-
-  monthly_temp[, 1:ncol(monthly_temp)] %>%
-  apply(2, function(x)as.numeric(x))
+#monthly_temp[, 1:ncol(monthly_temp)] <-
+#  monthly_temp[, 1:ncol(monthly_temp)] %>%
+#  apply(2, function(x) as.numeric(x))
 
 monthly_fog <- 
-  rio::import("https://github.com/r09b44030/trait-fog-relationship/raw/main/Environmental%20variable.xlsx", which = "Monthly_temp_and_fog") %>%
+  rio::import("https://github.com/zdealveindy/VegLab/raw/refs/heads/main/data/trait-fog-relationship/Environmental%20variable.xlsx", which = "Monthly_temp_and_fog") %>%
   `rownames<-`(.$plot) %>%
   dplyr::select(-plot) %>%
   dplyr::select(contains("fog"))
 
-monthly_fog[, 1:ncol(monthly_fog)] <-
-  monthly_fog[, 1:ncol(monthly_fog)] %>%
-  apply(2, function(x)as.numeric(x))
+# monthly_fog[, 1:ncol(monthly_fog)] <-
+#   monthly_fog[, 1:ncol(monthly_fog)] %>%
+#   apply(2, function(x)as.numeric(x))
 
 # 6. Correlations between environmental factors----
 # 6.1. Multiple linear regression: temp ~ fog + elevation ----
